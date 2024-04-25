@@ -5,6 +5,7 @@
 - 📫 How to reach me jameskazanski@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I sometimes like to read, and was a 15T in the Army National Guard.
+- 🐍 I also have a Replit: https://replit.com/@alexanderkaz
 
 <!---
 the-real-ak/the-real-ak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
